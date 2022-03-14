@@ -48,5 +48,3 @@ Automação desenvolvida com <b>UiPath Studio</b> para extrair dados no site do 
 E-mail: jordanlucasdd@gmail.com
 
 celular: (27) 9972215-1550
-# Desafio_RPA_RoitBank
-# Desafio_RPA_RoitBank
